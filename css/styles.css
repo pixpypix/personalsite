@@ -1,0 +1,49 @@
+
+
+
+    body{
+      background-color: #0A2342;
+    }
+
+    h1{
+    color: #2CA58D;
+
+    }
+
+    h2{
+
+      color: #84BC9C;
+
+    }
+
+    h4{
+      color: #F46197;
+    }
+
+    p{
+      color: #FFFDF7;
+    }
+
+    li{
+      color: #FFFDF7;
+    }
+
+th{
+    color:#FFFDF7;
+
+}
+td {
+  color:#FFFDF7;
+}
+
+a{
+  color: hotpink;
+}
+
+    hr{
+
+     height: 0px;
+     width: 70%;
+     border-color: grey;
+     border-style: dotted none none;
+    }
